@@ -74,6 +74,7 @@ public class NumbersRiddle_v2 {
         System.out.println("The riddle number is: " + riddleNumber4);
 
         // This is the algorithm for the fifth riddle number
+        
         System.out.println();
         System.out.println("Trial 5: Starting number is: " + zeroStartingNumber);
         
