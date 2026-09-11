@@ -7,7 +7,7 @@
 
 // All group members contributed to this part of the code
 
-public class NumbersRiddle {
+public class NumbersRiddle_with_comments {
     public static void main(String[] args) {
         
         int startingNumber = 1;
