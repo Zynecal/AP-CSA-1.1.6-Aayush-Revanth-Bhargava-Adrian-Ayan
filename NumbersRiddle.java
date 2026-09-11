@@ -7,7 +7,7 @@
 
 // All group members contributed to this part of the code
 
-public class NumbersRiddle_with_comments {
+public class NumbersRiddle {
     public static void main(String[] args) {
         
         int startingNumber = 1;
@@ -60,7 +60,6 @@ public class NumbersRiddle_with_comments {
         System.out.println("The final riddle number is: " + riddleNumber2);
 
         // This is the algorithm for the third riddle number
-        
         // Adrian Hulak wrote this part of the code
 
         System.out.println();
