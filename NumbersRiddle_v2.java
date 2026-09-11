@@ -1,4 +1,4 @@
-public class NumbersRiddle {
+public class NumbersRiddle_v2 {
     public static void main(String[] args) {
         
         int startingNumber = 1;
