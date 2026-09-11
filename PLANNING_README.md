@@ -1,4 +1,4 @@
-<img width="250" height="663" alt="image" src="https://github.com/user-attachments/assets/c39462a7-0821-4879-8b7d-001e666b4a18" />
+<img width="1136" height="719" alt="image" src="https://github.com/user-attachments/assets/9ec38bf7-e443-446f-b012-9e47de96e9de" />
 
 
 **Project 1.1.6 Numbers Riddle: Planning and Documentation**
